@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='nlpchkfemmnlnplbgfohlangmnpkgcoo'>
-    <updatecheck codebase='https://raw.githubusercontent.com/moemoe5783/safedocs/refs/heads/main/safedocs.zip' version='1.0.3' />
+    <updatecheck codebase='https://raw.githubusercontent.com/moemoe5783/safedocs/refs/heads/main/safedocs.crx' version='1.0.3' />
   </app>
 </gupdate>
